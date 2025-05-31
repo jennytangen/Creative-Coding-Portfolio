@@ -19,3 +19,9 @@ I have added my new code. This includes a spray brush now. I have also reduced t
 
 I added a new brush where the user can now draw with squares. This was quite a simple addition with small, but crucial changes. I commented the code about the other new changes.
 
+![e27](https://github.com/user-attachments/assets/7485ec32-1847-4ef4-b820-ecb74789bb4f)
+![e28](https://github.com/user-attachments/assets/197ad420-782d-46fa-87fa-d8f57908252d)
+![e29](https://github.com/user-attachments/assets/4a78bcd1-de9d-40e2-aa32-19b87cd03f01)
+
+I successfully added an eraser to the code. To make it, I made the colour of the brush the same as the background colour so it would blend in.
+
