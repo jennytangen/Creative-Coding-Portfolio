@@ -1,6 +1,6 @@
 Experiment 3: Two player game.
 
-Concept: Two players will move to 'eat' randomly placed points which will increase their score. Every second the players will be bigger and if they touch, the game ends and the person with the higher score wins. At the start of making this game, I wanted to do another concept however I changed it which is why the players are called knights.
+Concept: Two players will move to 'eat' randomly placed points which will increase their score. The game ends when a player reaches 10 points. At the start of making this game, I wanted to do another concept however I changed it which is why the players are called knights.
 
 ![e30](https://github.com/user-attachments/assets/e1a37bd7-a568-47f0-8155-f54285d0d3ef)
 ![e31](https://github.com/user-attachments/assets/5e4708f5-92c5-41e8-94f8-dea0c5e02b2c)
@@ -24,4 +24,14 @@ I created a point which will be randomly placed.
 ![e41](https://github.com/user-attachments/assets/2fadce62-1ead-4b08-9a67-e4eb1cef7251)
 
 Now, my game allows users to keep score of the points they eat. Also a new point will be created everytime another is deleted.
+
+![e42](https://github.com/user-attachments/assets/ac8a5a97-cd4e-40f4-a00a-bd2f81946a2b)
+![e43](https://github.com/user-attachments/assets/def60e22-2564-4b86-a7d6-e831633bb13b)
+![e44](https://github.com/user-attachments/assets/50ab3f82-eb86-4767-8227-36a669e8d58d)
+![e45](https://github.com/user-attachments/assets/29ce7326-31ae-47a9-a979-601fc090934a)
+![e46](https://github.com/user-attachments/assets/9f9e6bcb-63ea-4baa-8f4f-d04a0dde76ab)
+
+This is my finished game. I changed the background which made it looked more finished. The game fully works. I also increased the speed since I think this would be more fun for the users.
+
+
 
