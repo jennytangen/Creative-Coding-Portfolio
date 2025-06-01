@@ -2,6 +2,8 @@ Experiment 3: Two player game.
 
 Concept: Two players will move to 'eat' randomly placed points which will increase their score. The game ends when a player reaches 10 points. At the start of making this game, I wanted to do another concept however I changed it which is why the players are called knights.
 
+[See experiment 3 running here](/Experiment_3_2025_06_01_14_02_38/index.html)
+
 ![e30](https://github.com/user-attachments/assets/e1a37bd7-a568-47f0-8155-f54285d0d3ef)
 ![e31](https://github.com/user-attachments/assets/5e4708f5-92c5-41e8-94f8-dea0c5e02b2c)
 
