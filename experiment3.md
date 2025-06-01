@@ -30,8 +30,10 @@ Now, my game allows users to keep score of the points they eat. Also a new point
 ![e44](https://github.com/user-attachments/assets/50ab3f82-eb86-4767-8227-36a669e8d58d)
 ![e45](https://github.com/user-attachments/assets/29ce7326-31ae-47a9-a979-601fc090934a)
 ![e46](https://github.com/user-attachments/assets/9f9e6bcb-63ea-4baa-8f4f-d04a0dde76ab)
+![e47](https://github.com/user-attachments/assets/2e7de268-34bd-4732-a4f7-ccc1990ddd3c)
 
 This is my finished game. I changed the background which made it looked more finished. The game fully works. I also increased the speed since I think this would be more fun for the users.
+
 
 
 
