@@ -25,3 +25,11 @@ I added a new brush where the user can now draw with squares. This was quite a s
 
 I successfully added an eraser to the code. To make it, I made the colour of the brush the same as the background colour so it would blend in.
 
+Critical reflection:
+
+
+I chose to make the 4 different ‘brush’ types for the second experiment. Overall, I think it went well as I completed the brief. However, I could have added more artistic choices and designed it for a better user experience.
+
+The parts that went well were how I could easily understand how the variables changed the outcome of the code. This made it easier to create new brushes and allowed me to think in a more creative way since I could change the code as I wanted instead of relying on a tutorial. I added to tutorials and made my own brushes, which they didn't show me. I think this, paired with also creating working buttons, made my code creative but efficient. It was harder to add buttons, but I think it was worth the time.
+
+I could have improved the brush designs. This was mostly due to not ideating enough at the start of making the project. Therefore, if I were to redo this experiment, I would make more brushes and make them different shapes and colours. However, since I was unable to do this, I think this experiment is lacking. Since I focused more on the code aspect, I left out the other part of the brief, which is to make it more creative. I thought that the buttons and new brushes were enough; however, upon reflection, I believe I could have done more. In conclusion, I will add more features next time and plan more carefully to make it easier to do more intricate designs.
