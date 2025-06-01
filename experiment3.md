@@ -34,6 +34,15 @@ Now, my game allows users to keep score of the points they eat. Also a new point
 
 This is my finished game. I changed the background which made it looked more finished. The game fully works. I also increased the speed since I think this would be more fun for the users.
 
+Critical reflection:
+
+For the third experiment, I chose to make a two player game. When playing, you have to click on the screen, otherwise, it won’t work. I couldn’t figure out why this was; however, in the future, I will hopefully understand. This was due to thinking it would be enjoyable to make and learn about. I learnt a lot from my other experiments, so this was much smoother to code than the other.
+
+I think that the code is done well and commented thoroughly. Unfortunately, I focused on the technicality rather than the design. I believe the code is clear, efficient, and everything works. My design is lacking again, which is a shame since I think the game is enjoyable and fun.
+
+I would improve the design of the game, however, I find it harder to design games rather than code them. This is something I will continue to improve in the future. I added different coloured backgrounds to make it more appealing. I also added contrasting colours to help differentiate the players. The end credit screen could have a button which allows a rematch, however, I couldn’t figure out how to do that. If I were to recreate this, I would add that feature and also make it look more professional.
+
+In conclusion, I think even though the design is lacking a bit, it still has creativity and looks good. The conditions and the randomness of the point all add to the experience and make it engaging for the user. Increasing the speed later (after realising it's more fun that way) also helps the user enjoy the experience more.
 
 
 
