@@ -1,4 +1,4 @@
-This is experiment one: I have chosen to make a alternative way to read the time.
+This is experiment one: I have chosen to make a alternative way to read the time. I used the rays of sun to show what hour it is (12-hour clock) and then used a cloud moving across the screen to show when a new minute passes.
 
 [See experiment 1 running here](/experiment1_2025_06_01_13_49_28/index.html)
 
