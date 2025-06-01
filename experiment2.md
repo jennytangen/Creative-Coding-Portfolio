@@ -1,5 +1,7 @@
 Experiment 2:
 
+I chose to make a mouse drawing painting tool with 4 different brushes. I added buttons for each brush to make it easier to use.
+
 [See experiment 2 running here](/experiment_2_2025_06_01_14_01_14/index.html)
 
 
