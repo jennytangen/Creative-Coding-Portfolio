@@ -1,6 +1,6 @@
 This is experiment one: I have chosen to make a alternative way to read the time.
 
-[See experiment 1 running here](/experiment1_2025_06_01_13_49_28.html)
+[See experiment 1 running here](/experiment1_2025_06_01_13_49_28/index.html)
 
 ![e50](https://github.com/user-attachments/assets/31eb7b4c-260a-4689-aace-8ca56297efca)
 ![e51](https://github.com/user-attachments/assets/79670fe5-ae4a-4fc8-9289-9f7227a9d96b)
