@@ -18,4 +18,10 @@ This allows the knights to move. Knight 1 will use arrow keys while Knight 2 wil
 
 I created a point which will be randomly placed.
 
+![e38#](https://github.com/user-attachments/assets/2994fc89-797d-459f-a757-6801f137064c)
+![e39](https://github.com/user-attachments/assets/c61b29ed-ce89-4918-a900-01aa3e029991)
+![e40](https://github.com/user-attachments/assets/37d38139-8ff3-48b8-b765-bde35921d6cb)
+![e41](https://github.com/user-attachments/assets/2fadce62-1ead-4b08-9a67-e4eb1cef7251)
+
+Now, my game allows users to keep score of the points they eat. Also a new point will be created everytime another is deleted.
 
